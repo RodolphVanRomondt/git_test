@@ -1,1 +1,3 @@
 Hello WORLD ...
+
+git config --global code.editor "code --wait"
